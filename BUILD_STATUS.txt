@@ -1,0 +1,6 @@
+Dmm Photo Decor v0.1.0
+Artifact type: SOURCE PROJECT ZIP (not a compiled .geode)
+Target: Windows x64 / Geometry Dash 2.209 / Geode 6.0.0-alpha.1
+Build status: Not compiled in the current environment (Geode SDK and Windows build toolchain unavailable).
+Runtime status: Not tested in-game.
+Known verification item: custom RGB serialization on save/reload and no-touch/passable collision behavior.

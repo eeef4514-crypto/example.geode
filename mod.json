@@ -1,0 +1,15 @@
+{
+  "geode": "6.0.0-alpha.1",
+  "gd": {
+    "win": "2.209"
+  },
+  "id": "dmm.photodecor",
+  "name": "Dmm Photo Decor",
+  "version": "0.1.0",
+  "developer": "Dmm",
+  "description": "Import PNG/JPG images in the Geometry Dash editor and convert them into native, non-colliding colored objects.",
+  "tags": [
+    "editor",
+    "utility"
+  ]
+}
